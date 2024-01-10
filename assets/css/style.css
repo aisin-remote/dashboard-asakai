@@ -1,0 +1,21 @@
+﻿/* #donut-chart {
+	width: 10em;
+	height: 10em;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	margin-bottom: 1.063em;
+	background-position: center center;
+	margin: auto;
+} */
+
+.highcharts-figure .chart-container {
+	width: 125px;
+	height: 140px;
+	float: left;
+}
+
+.highcharts-figure-3 .chart-container-3 {
+	width: 95px;
+	height: 110px;
+	float: left;
+}
